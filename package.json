@@ -1,0 +1,21 @@
+{
+  "name": "valstrom-theme",
+  "displayName": "Valstrom Theme",
+  "description": "Extensión pa webear",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Valstrom Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Valstrom Theme-color-theme.json"
+      }
+    ]
+  }
+}
